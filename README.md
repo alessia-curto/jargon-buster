@@ -41,4 +41,6 @@
 | Git Hub           | Development platform where you can review code, manage projects and build software                                                                                                      |
 | Gsuite            | Google collaboration software for professional use                                                                                                                                      |
 | Sketch            | Software for graphic designers that allows you to draw a user interface design template                                                                                                 |
-| Heroku            | Allows the user to build, deliver, monitor and scale apps                                                                                                                               |
+| Heroku            | Allows the user to build, deliver, monitor and scale apps                                                                                                                               |
+| Dongle | A small device able to be   connected to and used with a computer, especially to allow access to wireless   broadband or use of protected software |
+|--------|----------------------------------------------------------------------------------------------------------------------------------------------------|
