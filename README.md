@@ -13,7 +13,7 @@
 | UX                | User Experience, how the user will be affected by the use of a product                                                                                                                  |
 | 2i                | Second eye, another person to check over your work                                                                                                                                      |
 | VI                | Command line editor                                                                                                                                                                     |
-| GDS               | Global Distribution System, nwetwork run by a company allowing automated transactions between travel service providers and travel agencies                                              |
+| GDS               | Global Distribution System, network run by a company allowing automated transactions between travel service providers and travel agencies                                              |
 | User              | The person who will use the product                                                                                                                                                     |
 | User flow         | The actions that have to be taken by a user to complete a process                                                                                                                       |
 | Co-design         | Designing a product whilst actively involving the stakeholders during the design process so the end product meets there needs                                                           |
