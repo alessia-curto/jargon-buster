@@ -31,7 +31,7 @@
 | First point       | IS self service portal                                                                                                                                                                  |
 | CPB               | Corporate Project Board- any external spends must go through them                                                                                                                       |
 | SUR               | Service User Recording, basic info about anyone using our services                                                                                                                      |
-| AD                | Assisstant Director                                                                                                                                                                     |
+| AD                | Assistant Director                                                                                                                                                                     |
 | REIT              | Research Evaluation and Impact Team                                                                                                                                                     |
 | Slack             | Communication, individually and within a team where you can send messages, links, documents etc.                                                                                                 |
 | Trello            | Project management app using cards to help keep track of tasks                                                                                                                          |
