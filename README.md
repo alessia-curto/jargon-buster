@@ -18,7 +18,7 @@
 | User flow         | The actions that have to be taken by a user to complete a process                                                                                                                       |
 | Co-design         | Designing a product by actively involving the end users and stakeholders during the design process so the end product meets there needs                                                           |
 | Agile             | Contain enough flexibility so developers create the best suited software for the circumstances they are facing                                                                          |
-| Guerilla Testing  | Testing a product and its software before purchasing when it has been made available for potential buyers                                                                                  |
+| Guerilla Testing  | Letting a user use a product for a short amount of time in order to gain feedback                                                                                  |
 | Discovery         | Finding out whether users need the service and whether other services exist                                                                                                  |
 | Alpha             | Next step after discovery if you find your service is needed and/or will be an improvement by building and developing prototypes to demonstrate the possibility of the service working |
 | Beta              | The phase when you build a working version based on your prototypes which can handle real transactions and work at scale                                                                |
